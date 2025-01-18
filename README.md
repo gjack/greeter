@@ -36,3 +36,7 @@ Calling for complains
 Hello Bob
 => nil
 ```
+
+## Development
+
+After checking out the repo, run `bin/setup` to install dependencies. Running `rake spec` will run the tests. If you make any changes to the `greeter_wrapped.cpp` file, running `rake` will compile the gem with the new changes and run the tests. You can also run `bin/console` for an interactive prompt that will allow you to experiment.

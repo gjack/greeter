@@ -32,6 +32,7 @@ irb(main):001> require "greeter"
 => true
 irb(main):002> Greeter::GreeterWrapped.new.say_hello "Bob"
 Doing other stuff in C++ and using methods of library
+Calling for complains
 Hello Bob
 => nil
 ```
